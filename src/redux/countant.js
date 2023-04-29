@@ -1,0 +1,8 @@
+export const ADD = "add"
+export const MINUS = "minus"
+export const GOOTCOUNT = "gootcount"
+export const GOOTSINFO = "gootinfo"
+export const ADDCOUNT =  "addCount"
+export const MINUSCOUNT=  "minusCount"
+export const RESET = "reset"
+export const SEARCH = "serach" 
