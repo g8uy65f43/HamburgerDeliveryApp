@@ -1,8 +1,10 @@
 # HamburgerDeliveryApp
 ## 使い方
-１．HamburgerDeliveryApp.apkをインストール  
+1.HamburgerDeliveryAppをダウンロード　　
 
-２．起動アプリ
+2．HamburgerDeliveryApp.apkをインストール  
+
+3．起動アプリ
 
 ## 詳細
 ReactNativeで作ったAndroidアプリです。  
