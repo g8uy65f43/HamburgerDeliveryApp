@@ -25,3 +25,7 @@ ReactJSが分かれば、ReactNativeで簡単なものを作るのもそれほ�
 フロント・クライアント技術 ：TypeScript、ReactNative、redux  
 開発環境：Audroid　Studio  
 他に：gradlew  
+##　イメージ図
+<img width="418" alt="螢幕擷取畫面 2023-04-30 083929" src="https://user-images.githubusercontent.com/105122594/235328392-ea200daa-7532-46ae-82bb-3ece277ff06e.png">
+<img width="445" alt="螢幕擷取畫面 2023-04-30 084022" src="https://user-images.githubusercontent.com/105122594/235328418-0064ffd0-65ca-4157-b70d-570f906bbe79.png">
+<img width="439" alt="螢幕擷取畫面 2023-04-30 084038" src="https://user-images.githubusercontent.com/105122594/235328421-4cda87b4-67d0-46a7-937d-6e1779a3d421.png">
